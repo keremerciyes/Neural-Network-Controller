@@ -71,7 +71,3 @@ Execute the script to view the outputs and system response for the reference sig
 
 The plant model function is provided in `yplant.m` and should be included in the same directory as the `.mlx` file.
 
-## References
-
-- [Neural Network Controller.pdf](Neural Network Controller.pdf)
-
